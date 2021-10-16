@@ -1,0 +1,20 @@
+{
+  "name": "notion-demo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^0.1.9",
+    "fastify": "^3.17.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
